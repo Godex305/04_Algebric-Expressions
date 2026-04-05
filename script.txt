@@ -1,0 +1,29 @@
+# Slide 1 Intro
+Hello Learners.
+In the topic of algebraic expressions, today we will talk about the factorisation of the expression a squared minus 2 ab plus b squared.
+Before starting, I you have't watched the expansion of a minus b whole squared you can watch it first by tapeing the i button.
+
+
+# Slide 2 Aimm and Working 
+So, our aim in today's video is to determine the factorisation of the algebraic expression a squared minus 2 ab plus b squared. For this, let's
+consider the term, a squared minus 2 ab plus b squared. Which can be re written as aa minus 2 times ab plus  bb. Furthermore, we can rewrite it as aa minus ab minus ab plus bb
+Now, by carefully observing the first two terms we get that both term contains a as their common factor so by taking a common from the both terms we can rewrite it as a times a minus b. 
+Similarly, by observing the last two terms we get that both terms contains b as their common factor. So by tacking b common along with the minus sign we can rewrite it as a minus b times b. With a minus sign in the middle.
+As we can see in the next step both terms contains a minus b as their common factor. So, by tacking a minus b common we get a minus b times a minus b.
+Hence, we are done with the factorisation.
+
+# Slide 3 Conclusion
+At last we have that a squared minus 2 ab plus b squared can be factorised into a minus b times a minus b. Which is a fundamental algebraic identity.
+
+Now, let us see one application of this identity with the help of an example.
+The example is asking us to factorise 25 x squared minus 20 x plus 4 with the help of above identity. 
+We will proceed step wise.
+In step one, 
+ we will convert the first term in some power of 2. For this we will factorise that term. Which will yield that 25 x squared can be written as 5x whole squared.
+In the step 2, we will do the same thing but with the last term. Which gives that 4 can be written as 2 squared.
+After performing both the steps, take a as 5x and b as 2, and calculate 2 times ab.
+We can clearly see that 2 times ab is equal to 20x which is nothing but he remaining term. Note that we are ignoring the minus sign for the moment. Because our identity has taken care of that.
+Hence, our choice is correct. Therefore, 25 x squared minus 20 x plus 4 is equal to a minus b times a minus b. Which is same as 5x mius 2 times 5x minus 2.
+
+# Slide 4 outro
+Thanks for watching. I hope that t you have enjoyed this tutorial we will meet in the next video.
